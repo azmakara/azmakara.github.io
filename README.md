@@ -1,1 +1,0 @@
-# azmakara.github.io
