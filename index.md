@@ -6,13 +6,14 @@ Passionate about technology and cybersecurity, I am a welled-rounded IT Skills a
 
 With 15+ years of experience in the IT industry, I am particularly adept at System and Network Engineers, Cloude Computing, Microsoft 365. My strong work ethic, coupled with my ability to think critically and creatively, allows me to consistently deliver exceptional results.
 
-#### Skills: 
+## Skills: 
 
-*  Technical Skills: Python, Linux, Networking, Cloud Computing, Microsoft M365, Cybersecurity...etc
-*  Soft Skills: Critical Thinking, Problem-Solving, Generative AI, Project Management
+*    Technical Skills: Python, Linux, Networking, Cloud Computing, Microsoft M365, Cybersecurity...etc
+*    Soft Skills: Critical Thinking, Problem-Solving, Generative AI, Project Management
 
-#### Certifications: 
+## Certifications: 
 *  Certificate 1
 *  Certificate 2
 *  Certificate 3
+
 
