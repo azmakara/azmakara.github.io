@@ -12,7 +12,7 @@ With 15+ years of experience in the IT industry, I am particularly adept at Syst
 *    Soft Skills: Critical Thinking, Problem-Solving, Generative AI, Project Management
 
 ## Certifications: 
-*  Certificate 1
+* [Microsoft Certified: Azure Solutions Architect Expert] (https://www.credly.com/badges/b7af0e3d-07ae-4de8-83a6-69ef0f0f8cdd)
 *  Certificate 2
 *  Certificate 3
 
