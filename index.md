@@ -8,7 +8,7 @@ With 15+ years of experience in the IT industry, I am particularly adept at Syst
 
 ## Skills: 
 
-*    Technical Skills: Python, Linux, Networking, Cloud Computing, Microsoft M365, Cybersecurity...etc
+*    Technical Skills: Window, Linux, Python, Networking, Cloud Computing, Microsoft M365, Cybersecurity...etc
 *    Soft Skills: Critical Thinking, Problem-Solving, Generative AI, Project Management
 
 ## Certifications: 
