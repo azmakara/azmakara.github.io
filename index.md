@@ -14,6 +14,7 @@ With 15+ years of experience in the IT industry (NGO, Logistic, ISPs, Internatio
 *    Soft Skills: Critical Thinking, Problem-Solving, Generative AI, Project Management
 
 ## Certifications: 
+
 * [Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/badges/b7af0e3d-07ae-4de8-83a6-69ef0f0f8cdd)
 *  [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
