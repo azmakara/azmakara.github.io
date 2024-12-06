@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[LinkedIn Profile](https://www.linkedin.com/in/chanmakara/) 
+## [LinkedIn Profile](https://www.linkedin.com/in/chanmakara/) 
 
 Passionate about technology and cybersecurity, I am a welled-rounded IT Skills and dedicated IT professional with a strong focus on delivering high-quality solutions. 
 
