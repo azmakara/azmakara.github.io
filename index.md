@@ -18,6 +18,7 @@ With 15+ years of experience in the IT industry (NGO, Logistic, ISPs, Internatio
 * [Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/badges/b7af0e3d-07ae-4de8-83a6-69ef0f0f8cdd)
 *  [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/c0e3b062-d6c4-442c-af1a-714eac3f6aed)
 *  [Google AI Essentials](https://coursera.org/share/739d80de61d1b2f62b2e165b24dc96fa)
+*  [Microsoft Project Management](https://www.coursera.org/account/accomplishments/specialization/S29IKAZGGC60)
 
 
 
