@@ -60,7 +60,7 @@ With 15+ years of experience in the IT industry (NGO, Logistic, ISPs, Internatio
 +	Requirement Technical know how to do & Work independently
 +	Many technical stuffs to do like IT Infra, Factory Core System…etc
 *	Action
-+	Buildup IT Infra from scratch: network, servers, access doors, CCTV…etc
++	Build IT Infra from scratch: network, servers, access doors, CCTV…etc
 +	Collaborating with production team to set up Factory Core System...etc
 +	Continuing Improvement: Small Form PCs, Sourcing IT Equipment, Inventing Food Ordering System...etc.
 *	Result
