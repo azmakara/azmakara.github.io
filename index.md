@@ -24,35 +24,43 @@ With 15+ years of experience in the IT industry (NGO, Logistic, ISPs, Internatio
 
 ### Cambodia Investment Holding | IT Manager ~ 5y
 *	Situation & Tasks
+```js
 New group holding company
 Many subsidiaries: Insurance, Banking, Mining, Logistics…etc
 Require Technical specialize in Cloud Service (Microsoft & Google)
 Collaboration with IT related group for integration services needed
+```
 *	Actions
+```js
 Manage M365 Accounts for group & Subsidiaries 400+
 Safeguard all endpoints for groups in Cambodia & Thailand 100+ Endpoints
 *	Result
 Well recognized by the group CEO & Leadership team
 Transfer to subsidiaries CCU Bank as Manager, IT Security
-
+```
 ### BIMA Cambodia | IT Manager ~ 1y
 * Situation & Tasks :
+```js
 BIMA Global uses cutting-edge technology 
 BIMA Cambodia is micro insurance company (Health & Life Insurance)
 BIMA Cambodia operates many years in Cambodia
 BIMA Cambodia has no IT infrastructure, so they outsource IT Infrastructure to Third-Party and Invest heavily in technology in emerging markets like Cambodia
+```
 *	Actions :
+```js
 Setting up new BIMA IT Infrastructure in Cambodia
 Setting up new virtualize BIMA IT Infrastructure (VMWare Solution) in Packistan
 Integration with local payment channels (ABA, ACLEDA,…etc)
+```
 *	Results :
+```js
 New BIMA IT Infra runs effectively and costs less (Save ~20k$/Month)
 New BIMA IT Infra reduce complexity & well documented
 Migration from Third party IT Infrastructure to BIMA IT infrastructure with very minimal down time
 Giving opportunities to setting up BIMA IT Infra in big market in Pakistan
 Promote to manage IT BIMA in Malasia, Philippines 
 Recognize by group CEO BIMA and many leaderships team
-
+```
 ### Laurelton Diamonds Cambodia | IT Manager ~ 5y
 *	Situation & Tasks :
 ```js
