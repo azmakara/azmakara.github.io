@@ -40,6 +40,7 @@ Safeguard all endpoints for groups in Cambodia & Thailand 100+ Endpoints
 Well recognized by the group CEO & Leadership team
 Transfer to subsidiaries CCU Bank as Manager, IT Security
 ```
+
 ### BIMA Cambodia | IT Manager ~ 1y
 * Situation & Tasks :
 ```js
@@ -63,6 +64,7 @@ Giving opportunities to setting up BIMA IT Infra in big market in Pakistan
 Promote to manage IT BIMA in Malasia, Philippines 
 Recognize by group CEO BIMA and many leaderships team
 ```
+
 ### Laurelton Diamonds Cambodia | IT Manager ~ 5y
 *	Situation & Tasks :
 ```js
