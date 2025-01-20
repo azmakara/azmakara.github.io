@@ -55,19 +55,19 @@ Recognize by group CEO BIMA and many leaderships team
 
 ### Laurelton Diamonds Cambodia | IT Manager ~ 5y
 *	Situation & Tasks :
-```ruby
+```js
 New Diamond factory in Cambodia 
 Requirement Technical know how to do & Work independently
 Many technical stuffs to do like IT Infra, Factory Core System…etc
 ```
 *	Action :
-```ruby
+```js
 Build IT Infra from scratch: network, servers, access doors, CCTV…etc
 Collaborating with production team to set up Factory Core System...etc
 Continuing Improvement: Small Form PCs, Sourcing IT Equipment, Inventing Food Ordering System...etc.
 ```
 *	Result :
-```ruby
+```js
 Promote to manage 2 departments IT and Sawing Production
 ```
   
