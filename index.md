@@ -36,16 +36,16 @@ Well recognized by the group CEO & Leadership team
 Transfer to subsidiaries CCU Bank as Manager, IT Security
 
 ### BIMA Cambodia | IT Manager ~ 1y
-* Situation & Tasks
+* Situation & Tasks :
 BIMA Global uses cutting-edge technology 
 BIMA Cambodia is micro insurance company (Health & Life Insurance)
 BIMA Cambodia operates many years in Cambodia
 BIMA Cambodia has no IT infrastructure, so they outsource IT Infrastructure to Third-Party and Invest heavily in technology in emerging markets like Cambodia
-*	Actions
+*	Actions :
 Setting up new BIMA IT Infrastructure in Cambodia
 Setting up new virtualize BIMA IT Infrastructure (VMWare Solution) in Packistan
 Integration with local payment channels (ABA, ACLEDA,…etc)
-*	Results
+*	Results :
 New BIMA IT Infra runs effectively and costs less (Save ~20k$/Month)
 New BIMA IT Infra reduce complexity & well documented
 Migration from Third party IT Infrastructure to BIMA IT infrastructure with very minimal down time
@@ -54,17 +54,22 @@ Promote to manage IT BIMA in Malasia, Philippines
 Recognize by group CEO BIMA and many leaderships team
 
 ### Laurelton Diamonds Cambodia | IT Manager ~ 5y
-*	Situation & Tasks
-New Diamond factory in Cambodia
+*	Situation & Tasks :
+```ruby
+New Diamond factory in Cambodia 
 Requirement Technical know how to do & Work independently
 Many technical stuffs to do like IT Infra, Factory Core System…etc
-*	Action
+```
+*	Action :
+```ruby
 Build IT Infra from scratch: network, servers, access doors, CCTV…etc
 Collaborating with production team to set up Factory Core System...etc
 Continuing Improvement: Small Form PCs, Sourcing IT Equipment, Inventing Food Ordering System...etc.
-*	Result
+```
+*	Result :
+```ruby
 Promote to manage 2 departments IT and Sawing Production
-
+```
   
 
 
